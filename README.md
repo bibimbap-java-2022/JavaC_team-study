@@ -8,7 +8,7 @@
 > 안녕하세요!
 
 **손소영**
-<a href="https://github.com/soyeongsohn"><img src="https://img.shields.io/github/followers/soyeongsohn?label=AnGit&style=social"/></a>
+<a href="https://github.com/soyeongsohn"><img src="https://img.shields.io/github/followers/soyeongsohn?label=soyeongsohn&style=social"/></a>
 ![Badge](https://img.shields.io/badge/email-thdud6265%40gmail.com-red)
 > 안녕하세요:)
 
