@@ -3,7 +3,7 @@
 
 ### ✍️ Member
 **정재우**
-<a href="https://github.com/adfkov"><img src="https://img.shields.io/github/followers/adfkovlabel=Chungjaewoo&style=social"/></a>
+<a href="https://github.com/adfkov"><img src="https://img.shields.io/github/followers/adfkov?label=Chungjaewoo&style=social"/></a>
 ![Badge](https://img.shields.io/badge/email-qufekf989@naver.com-blue)
 > 안녕하세요!
 
