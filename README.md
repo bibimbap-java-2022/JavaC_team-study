@@ -3,9 +3,9 @@
 
 ### ✍️ Member
 **정재우**
-<a href="https://github.com/anjm1020"><img src="https://img.shields.io/github/followers/anjm1020?label=AnGit&style=social"/></a>
-![Badge](https://img.shields.io/badge/email-anjm1020%40gmail.com-red)
-> Hello World!
+<a href="https://github.com/adfkov"><img src="https://img.shields.io/github/followers/adfkovlabel=Chungjaewoo&style=social"/></a>
+![Badge](https://img.shields.io/badge/email-qufekf989@naver.com-blue)
+> 안녕하세요!
 
 **손소영**
 <a href="https://github.com/anjm1020"><img src="https://img.shields.io/github/followers/anjm1020?label=AnGit&style=social"/></a>
